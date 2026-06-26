@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+⚡ PRATIK LOHAR ⚡ <br><br>Cloud Computing | AWS | Linux | Infrastructure<br><br>👨‍💻 WHO AM I ?<br><br>Name: Pratik A. Lohar<br><br>Degree:<br>  B.E. Computer Engineering (Third Year)<br><br>Location:<br>  Nashik, Maharashtra, India<br><br>Role:<br>  Cloud Support / Infrastructure Student<br><br>Focus:<br>  Cloud Infrastructure<br>  AWS<br>  Linux Administration<br>  Networking<br><br>Interested In:<br>  Cloud Operations<br>  Serverless Computing<br>  Infrastructure Automation<br>  High Availability Systems<br><br>Email:<br>  pratiklohar37178@gmail.com<br><br>LinkedIn:<br>  linkedin.com/in/pratiklohar07<br><br>GitHub:<br>  github.com/pratiklohar07<br><br>🎯 CURRENT FOCUS<br><br>██████████  AWS Cloud<br><br>█████████░  Linux Administration<br><br>█████████░  Networking<br><br>████████░░  Serverless Architecture<br><br>███████░░░  Cloud Security<br><br>██████░░░░  Infrastructure Design<br><br>█████░░░░░  Automation<br><br>💻 TECH STACK<br>☁️ Cloud<br>AWS<br>EC2<br>S3<br>IAM<br>Lambda<br>API Gateway<br>CloudFront<br>CloudWatch<br>SNS<br>VPC<br>ELB<br>Auto Scaling<br>NAT Gateway<br><br>💻 Languages<br>Git<br><br>GitHub<br><br>VS Code<br><br>Nginx<br><br>🚀 PROJECT<br>☁️ SkyTube<br>Serverless Cloud Video Streaming Platform<br><br>Tech Stack<br><br>• AWS Lambda<br>• API Gateway<br>• S3<br>• CloudFront<br>• DynamoDB<br>• EC2<br>• Nginx<br><br>Highlights<br><br>✔ Serverless Backend<br><br>✔ Cloud-Native Architecture<br><br>✔ Secure Video Delivery<br><br>✔ CDN Acceleration<br><br>✔ Metadata Search<br><br>✔ Reverse Proxy Deployment
 
-<!--
-**pratiklohar07/pratiklohar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratiklohar_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratiklohar07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Pratiklohar_07) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pratiklohar07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pratiklohar07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pratiklohar07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=pratiklohar07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
